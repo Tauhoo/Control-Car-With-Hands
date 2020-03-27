@@ -46,3 +46,8 @@ In "[schematic](https://github.com/Tauhoo/Control-Car-With-Hands/tree/master/sch
      - HY-SRF05 Ultrasonic Sensor Module x1 pc
      - LDR Photoresistor 10mm x1 pc
      - Ball Wheel x1 pc
+
+## Video
+
+[Code explaination](https://youtu.be/wOnyEVgWpVA) - Explanation of how code work.<br/>
+[Project presentation](https://youtu.be/XpA377lBA1Q) - Present project concept and tools.
