@@ -27,13 +27,14 @@ Controlling the car by moving both hands instead of using the joystick. There're
 In "source" directory
 | filename | description |
 |---------------|-----------------------------------------------|
-|car.py | Controlling the direction and movement of car |
-|lefthand.py | Controlling the direction of car |
-|righthand.py | Controlling the movement of car |
+| car_safety.py | Controlling safety system of car |
+| car_wheels.py | Controlling the direction and movement of car|
+| lefthand.py | Controlling the direction of car |
+| righthand.py | Controlling the movement of car |
 
 ## Board Schematic
 
-In "schematic" directory
+In "[schematic](https://github.com/Tauhoo/Control-Car-With-Hands/tree/master/schematic)" directory
 
 ## Equipment
 
