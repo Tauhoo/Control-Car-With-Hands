@@ -22,6 +22,14 @@ Student of Department of Computer Engineering, Faculty of Engineering, Kasetsart
 
 Controlling the car by moving both hands instead of using the joystick. There're simple operation: The left hand uses tilting the hand to control the turn of the car. Turn left the car by tilt the hand to the left and turn right the car by tilt the hand to the right. The right hand uses opening and closing the palm of the hand to control the movement of the car. Moving the car forward by open the palm of the hand and stopping the car by close the palm of the hand.
 
+## Feature
+
+Use hands gesture to control the car instead of a joystick.
+
+- The left hand is used to control the car's direction by The 3D tilting sensor on the glove. When you slop the left hand to the right, The car will turn right. And turn left when slop to the left.
+- Forward and stop the car by opening and closing the palm of the right hand. The action can be detected by the light sensor on the right hand.
+- The car can stop automatically when it encounters obstacles. the barrier can be caught by Ultrasonic Sensor. The system will stop the car when obstacles are too close.
+
 ## Source Code
 
 In "source" directory
