@@ -20,9 +20,9 @@ Student of Department of Computer Engineering, Faculty of Engineering, Kasetsart
 
 ## Description
 
-Controlling the car by moving both hands instead of using the joystick. There're simple operation: The left hand uses tilting the hand to control the turn of the car. Turn left the car by tilt the hand to the left and turn right the car by tilt the hand to the right. The right hand uses opening and closing the palm of the hand to control the movement of the car. Moving the car forward by open the palm of the hand and stopping the car by close the palm of the hand.
+At present there are many devices that can control the movement in long distances or wireless movement. So there are more people interested in it. Which most of those devices are drone, remote control car, pilotless aircraft, etc. And we are interested in making a remote control car. The Embedded System course is set to use 4 boards to develop devices for communication. And then we study and learn the equipment regarding all parts of vehicles. In the end, we concluded that we would cut off the joystick, and we replace the joystick with hand control. In the car we will be equipped accessory for each devices can communicate with each other, And enhance the safety performance of the car.
 
-## Feature
+## Features
 
 Use hands gesture to control the car instead of a joystick.
 
